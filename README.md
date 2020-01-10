@@ -1,0 +1,3 @@
+# FinfetchOS
+
+epic mode

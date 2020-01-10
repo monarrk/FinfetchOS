@@ -1,0 +1,6 @@
+zig-cache
+*.bin
+*.iso
+build.log
+/iso
+/recs
